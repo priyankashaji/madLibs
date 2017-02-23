@@ -1,0 +1,25 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(../font/Caslon_Old_Face_Heavy_BT.ttf);
+}
+h1{
+  font-family: myFirstFont;
+  font-size: 52px;
+}
+p{
+  font-size: 42px;
+}
+.list{
+  text-align: center;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 3px solid #ccc;
+  outline: none;
+}
+.form{
+  text-align: center;
+}
+#input{
+  background-color: #FDF3D9;
+}
